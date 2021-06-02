@@ -1,0 +1,13 @@
+# Unimib_Projects
+Progetti Università Bicocca
+
+Foundations Of Computer Science
+CdLM DATA SCIENCE, Università Milano-Bicocca
+Lavoro a cura di : Alessandro Fossati, Giorgio Nardi
+
+DESCRIZIONE DEL PROGETTO:
+
+In questo progetto viene richiesto di risolvere 16 quesiti inerenti ad alcuni prestiti monetari effettuati in tutti i paesi del mondo.
+I dataset utilizzati vengono scaricati dalla piattaforma Kaggle.com, e si trovano all'interno del seguente link:
+https://www.kaggle.com/gaborfodor/additional-kiva-snapshot.
+Il linguaggio di programmazione utilizzato per creare il codice è Python, con l'utilizzo in particolare della libreria 'Pandas'.

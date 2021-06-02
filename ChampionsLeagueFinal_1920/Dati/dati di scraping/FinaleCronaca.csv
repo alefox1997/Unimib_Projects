@@ -1,0 +1,102 @@
+,minuto,minuto_effettivo,testo,squadre,soggetti,eventi
+0,0',0, Calcio d'inizio,0,0,inizio primo tempo
+1,1',1, PSG che è partito determinato attuando un pressing alto per non far ragionare gli avversariLa finale ha inizio - Calcio d'avvio del PSG che attacca da sinistra verso destraSquadre in campo ,psg,0,pressing
+2,2',2, Lancio sulla destra per Muller,bayern,muller,assist
+3,2',2, Anche il Bayern pressa molto alto,bayern,0,pressing
+4,3',3," Su punizione dalla trequarti sinistra di Kimmich, svetta Paredes e libera l'area","psg, bayern","paredes, kimmich",punizione
+5,5',5, Buona chiusura in scivolata di Kehrer su Coman lanciato sulla sinistra,"psg, bayern","kehrer, coman","chiusura, scivolata"
+6,6',6," Lancio al limite per Gnabry, chiuso da Mbappé in ripiegamento","psg, bayern","gnabry, mbappé","chiusura, assist"
+7,6',6, Thiago prova il destro da 28 mt,0,thiago,tiro
+8,8',8, Il Bayern ha preso campo ma per ora il PSG si difende bene,"psg, bayern",0,
+9,8',8, Perfetta chiusura di Bernat su Kimmich lanciato sulla destra,"psg, bayern","kimmich, bernat",chiusura
+10,9',9," Punizione per il PSG, non distante dal vertice sinistro dell'area",psg,0,"tiro, punizione"
+11,10',10, Cross dalla destra di Kehrer deviato in tuffo di testa in angolo da Boateng,"psg, bayern","boateng, kehrer","deviazione, colpo di testa, cross, corner"
+12,10',10, Di Maria calcia in mezzo dove Davies è attento e allontana di testa,"psg, bayern","davies, di maria","tiro, colpo di testa"
+13,11',11, Sugli sviluppi dell'angolo da destra svetta Gnabry e libera l'area anticipando Silva,"psg, bayern","gnabry, silva",
+14,12',12, Coman ruba palla sulla trequarti ma poi viene chiuso in extremis al limite da Silva che dà all'indietro a Navas,"psg, bayern","silva, navas, coman",chiusura
+15,14',14, Mbappé di tacco smarca in area sulla sinistra Bernat che gli restituisce il pallone,psg,"mbappé, bernat",
+16,15',15, Se ne è andato il primo quarto d'ora,0,0,
+17,15',15, Lancio in area sulla sinistra per Mbappé che tenta il destro,psg,mbappé,"tiro, assist"
+18,16',16," Lancio al limite per Muller, anticipato da Silva","psg, bayern","muller, silva",assist
+19,17',17, Lancio sulla sinistra per Davies,bayern,davies,assist
+20,18',18, Occasione PSG! Mbappé lancia in area Neymar il cui sinistro in girata è respinto d'istinto da Neuer!,"psg, bayern","neuer, mbappé, neymar","tiro, parata"
+21,20',20, Lancio in area sulla destra per Kimmich,bayern,kimmich,assist
+22,21',21," Cross basso dalla destra di Gnabry per Lewandowski, anticipato da Silva","psg, bayern","lewandowski, gnabry, silva",cross
+23,22',22, Palo del Bayern!! Davies dalla trequarti sinistra centra per Lewandowski che controlla e calcia di destro in girata,bayern,"lewandowski, davies","palo, tiro"
+24,23',23, Occasione PSG! Di Maria triangola al limite con Herrera e poi calcia,psg,"herrera, di maria",tiro
+25,23',23, Cross dalla trequarti destra di Kimmich leggermente troppo lungo per Coman,bayern,"kimmich, coman",cross
+26,24',24, Problemi per Boateng che si getta a terra,bayern,boateng,gioco fermo
+27,25',25, Boateng deve uscire,bayern,boateng,sostituzione
+28,28',28," Punizione per il PSG dal fondo destra, è una sorta di corner corto",psg,0,"corner, punizione"
+29,28',28, Ammonito Davies per un fallo ai danni di Kehrer lanciato sulla destra,"psg, bayern","davies, kehrer","cartellino giallo, punizione"
+30,29',29," Occasione PSG! Di Maria calcia la punizione in mezzo, Kimmich allontana di testa sui piedi di Herrera il cui destro da fuori, deviato col corpo da Goretzka, termina di poco a lato alla sinistra di Neuer!","psg, bayern","herrera, kimmich, neuer, di maria, goretzka","fuori, deviazione, tiro, colpo di testa, punizione"
+31,30',30, Incredibile svista della terna arbitrale che non vede la deviazione di Goretzka e non concede l'angolo al PSG,"psg, bayern",goretzka,deviazione
+32,31',31, Perfetta chiusura di Kehrer su Coman lanciato sulla sinistra,"psg, bayern","kehrer, coman",chiusura
+33,31',31," Occasione Bayern! Su cross dalla trequarti destra di Muller va di testa in girata da pochi passi Lewandowski, conclusione ravvicinata ma centrale che Navas respinge d'istinto!","psg, bayern","navas, lewandowski, muller","tiro, colpo di testa, cross, parata"
+34,33',33," Su cross dalla sinistra di Coman, Kimpembé va in tuffo di testa e allontana il pericolo",bayern,coman,"colpo di testa, cross"
+35,34',34, Lancio in area per Gnabry,bayern,gnabry,assist
+36,36',36, Cross dalla trequarti sinistra di Coman direttamente tra le braccia di Navas,"psg, bayern","navas, coman","cross, parata"
+37,38',38," Su punizione dalla trequarti di Kimmich, Marquinhos di testa anticipa Goretzka e libera l'area","psg, bayern","kimmich, marquinhos, goretzka","colpo di testa, punizione"
+38,39',39," Lancio sulla destra per Gnabry, chiuso in angolo da Bernat","psg, bayern","gnabry, bernat","chiusura, assist"
+39,40',40," Sull'angolo dalla destra, Kimpembé anticipa tutti e spazza",0,0,
+40,41',41," Davies dalla sinistra centra per Lewandowski, anticipato in extremis di testa da Bernat","psg, bayern","lewandowski, davies, bernat",colpo di testa
+41,42',42," Cross dalla destra di Lewandowski per Muller, anticipato in angolo da Marquinhos","psg, bayern","lewandowski, muller, marquinhos",cross
+42,43',43, Dall'angolo non nascono pericoli per la porta francese,0,0,
+43,44',44," Cross basso dalla sinistra di Davies per Coman, anticipato da Silva","psg, bayern","silva, davies, coman",cross
+44,44',44, Lancio in area sulla destra per Muller,bayern,muller,assist
+45,45',45, Perfetta chiusura di Davies su Di Maria lanciato sulla sinistra,"psg, bayern","davies, di maria",chiusura
+46,45' + 1',46, Coman cade in area sulla sinistra dopo un contrasto con Kehrer,"psg, bayern","coman, kehrer",contrasto
+47,45' + 1',46, Occasione PSG! Palla persa dalla trequarti dal bayern con Herrera che serve Mbappé che con il destro da 8 mt calcia tra le braccia di Neuer!,"psg, bayern","herrera, neuer, mbappé","tiro, assist, parata"
+48,45' + 2',47, Fine primo tempo - Si va al riposo sullo 0-0La ripresa ha inizio - Non ci sono ulteriori novità nei due schieramentiCommento al primo tempo - Finale vibrante e divertente tra PSG e Bayern. Non tragga in inganno lo 0-0,"psg, bayern",,fine primo tempo
+49,46',46, Davies prova il sinistro da 28 mt,bayern,davies,tiro
+50,49',49," Cross basso dalla sinistra di Coman per Lewandowski, anticipato in angolo da Silva","psg, bayern","silva, lewandowski, coman",cross
+51,50',50, Dall'angolo non nascono pericoli per la porta del PSG,psg,0,
+52,51',51, Il copione non cambia,0,0,
+53,52',52, Mini-rissa in campo dopo un fallo subito da Gnabry,bayern,gnabry,"gioco fermo, punizione"
+54,52',52, Ammonito Paredes per aver commesso fallo su Gnabry,"psg, bayern","paredes, gnabry","cartellino giallo, punizione"
+55,53',53, Ammonito Gnabry per aver reagito a Paredes,"psg, bayern","gnabry, paredes",cartellino giallo
+56,56',56, Ammonito Sule per un fallo da dietro a centrocampo ai danni di Di Maria,"psg, bayern","sule, di maria","cartellino giallo, punizione"
+57,56',56, Lancio in area per Mbappé che tocca il pallone col ginocchio nel tentativo di controllarlo e lo manda sul fondo,psg,mbappé,"fuori, assist"
+58,58',58," Lancio al limite per Gnabry, anticipato di testa da Bernat","psg, bayern","gnabry, bernat","colpo di testa, assist"
+59,59',59, Il match ora pare bloccato,0,0,
+60,59',59, GOL DEL BAYERN!!!!!!!!!!!!!! COMAN!!!!!!!!!!!!!! 0-1!,bayern,coman,gol
+61,60',60, Il gol - Perfetto cross dal limite di Kimmich sul secondo palo per lo smarcato Coman che di testa schiaccia il pallone in diagonale e lo infila alla sinistra di Navas,"psg, bayern","navas, kimmich, coman","palo, colpo di testa, gol, cross"
+62,61',61," Comen dalla sinistra centra per Lewandowski, anticipato provvidenzialmente in tuffo di testa da Kimpembé",bayern,lewandowski,colpo di testa
+63,62',62, Occasione Bayern! Muller dalla destra centra per Coman il cui sinistro in diagonale è salvato sulla linea da Silva,"psg, bayern","silva, muller, coman",tiro
+64,64',64, Forse la conclusione di Coman sarebbe finita fuori ma Silva ha comunque evitato un grosso pericolo,"psg, bayern","silva, coman","fuori, tiro"
+65,64',64, Cambio nel PSG,psg,0,sostituzione
+66,65',65, Coman va via in area sulla sinistra e centra,bayern,coman,
+67,66',66," Sugli sviluppi dell'angolo, allontanato di testa da Marquinhos, prova il sinistro da 30 mt Alaba","psg, bayern","alaba, marquinhos","tiro, colpo di testa"
+68,67',67, Di Maria dalla trequarti destra centra per Mbappé che allarga le gambe per disorientare Neuer che blocca invece con sicurezza,"psg, bayern","neuer, mbappé, di maria",parata
+69,68',68, Cambio nel Bayern,bayern,0,sostituzione
+70,68',68, Cambio nel Bayern,bayern,0,sostituzione
+71,69',69," Torre di Lewandowski per Coutinho, anticipato in presa bassa da Navas","psg, bayern","navas, lewandowski, coutinho","fuori, parata"
+72,70',70, Occasione PSG! Di Maria dalla destra centra per l'accorrente Marquinhos che di destro in diagonale si vede respingere la conclusione d'istinto da Neuer!,"psg, bayern","neuer, di maria, marquinhos","tiro, parata"
+73,71',71, Cross dalla sinistra di Mbappé deviato in angolo da Sule,"psg, bayern","mbappé, sule","deviazione, cross, corner"
+74,71',71, Dall'angolo non nascono pericoli per la porta bavarese,0,0,
+75,72',72, Cambio nel PSG,psg,0,sostituzione
+76,73',73, Provvidenziale chiusura di Kimmich su Mbappé lanciato in area sulla sinistra,"psg, bayern","mbappé, kimmich",chiusura
+77,73',73," Su cross basso dalla destra di Di Maria, Thiago è attento e libera l'area",psg,"di maria, thiago",cross
+78,74',74, Neymar prova il destro a giro da fuori,psg,neymar,"fuori, tiro"
+79,75',75," Rivedendo l'episodio precedente in area del Bayern c'è stato un leggero tocco da dietro di Kimmich a Mbappé che, per la verità, però, non ha neppure reclamato il rigore","psg, bayern","mbappé, kimmich",
+80,76',76," Lancio in area sulla destra per Perisic, anticipato da Navas in uscita","psg, bayern","navas, perisic","assist, parata"
+81,77',77," Lancio in area per Draxler, anticipato di testa da Davies che dà all'indietro a Neuer","psg, bayern","draxler, davies, neuer","colpo di testa, assist"
+82,78',78, Cross dalla destra di Perisic che termina direttamente sul fondo,bayern,perisic,"fuori, cross"
+83,79',79, Nel Bayern Perisic gioca a destra e Coutinho a sinistra,bayern,"perisic, coutinho",fuori
+84,80',80, Cambio nel PSG,psg,0,sostituzione
+85,80',80, Cambio nel PSG,psg,0,sostituzione
+86,81',81, Ammonito Neymar per un fallo da dietro a Lewandowski a centrocampo,"psg, bayern","lewandowski, neymar","cartellino giallo, punizione"
+87,82',82," Lancio in area per Lewandowski, fermato in giusto fuorigioco",bayern,lewandowski,"fuori, tiro, fuorigioco, assist"
+88,83',83, Ammonito Silva per un fallo ai danni di Lewandowski lanciato in contropiede,"psg, bayern","lewandowski, silva","cartellino giallo, punizione"
+89,84',84," Punizione per il Bayern da 30 mt, leggermente spostata sulla sinistra",bayern,0,punizione
+90,84',84, Coutinho prova il destro a giro,bayern,coutinho,"fuori, tiro"
+91,85',85, Ammonito Kurzawa per un fallo a centrocampo ai danni di Kimmich,"psg, bayern","kimmich, kurzawa","cartellino giallo, punizione"
+92,86',86, Cambio nel Bayern,bayern,0,sostituzione
+93,87',87, Il PSG fatica a imbastire un assalto finale,psg,0,
+94,88',88, Cross dalla destra di Mbappé troppo alto per Choupo-Moting,psg,"mbappé, choupo-moting",cross
+95,89',89," Choupo-Moting smarca in area Mbappé che, tutto solo, calcia addosso a Neuer ma il gioco era fermo per evidente fuorigioco dell'attaccante francese","psg, bayern","neuer, mbappé, choupo-moting","fuori, tiro, fuorigioco, gioco fermo"
+96,90',90, Si giocherà per altri 5',0,0,recupero
+97,90' + 1',91," Lancio in area per Lewandowski, chiuso in extremis da Kehrer","psg, bayern","lewandowski, kehrer","chiusura, assist"
+98,90' + 2',92, Occasione PSG! Lancio in area per Draxler che si gira e centra per Neymar che sfiora appena il pallone che termina 2-3 mt a lato alla sinistra di Neymar!,psg,"draxler, neymar","gol, assist"
+99,90' + 4',94, Ammonito Muller per una trattenuta a centrocampo su Mbappé,"psg, bayern","mbappé, muller",cartellino giallo
+100,90' + 6',96,Fine partita,0,0,fine partita

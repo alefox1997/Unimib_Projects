@@ -1,0 +1,2 @@
+time	positivi	negativi	neutrali	confint_score	sentiment_score
+prepartita	2114	184	2174	(0.407, 0.435)	0.421

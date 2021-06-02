@@ -1,0 +1,2 @@
+time	positivi	negativi	neutrali	confint_score	sentiment_score
+postpartita	1601	822	2848	(0.097, 0.125)	0.111
