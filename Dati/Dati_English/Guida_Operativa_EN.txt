@@ -1,0 +1,4 @@
+si trovano i metadati definitivi raccolti e due cartelle, una per amazon 
+e una per goodreads. 
+Goodreads: cartella con tutti i file di antoniak dovessero mai servire. File definitivo
+Amazon: File completo (365k) e file limitato a 300 reviews per libro

@@ -1,0 +1,2 @@
+- il file più importante è Yes24_Rev_def, che contiene le prime 300 massimo reviews per libro tra lunghe e one line
+- gli altri 4 file sono divisi per one line e lunghe (2 a testa) con limite a 300 reviews e non
